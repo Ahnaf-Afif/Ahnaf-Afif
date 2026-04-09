@@ -1,3 +1,6 @@
+![Header](./github-header-banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Afif Siddique</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
